@@ -439,7 +439,7 @@ span{
  /* contact */
 
  #contact {
-    background-image: url('/background/contactMe.png');
+    background-image: url('background/contactMe.png');
     background-repeat: no-repeat;
 }
 
