@@ -1,5 +1,6 @@
 .homeee{
     background-image: url(background/home.jpg);
+   
 }
 
 body {
@@ -441,6 +442,7 @@ span{
  #contact {
     background-image: url('background/contactMe.png');
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .formanddetails{
